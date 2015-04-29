@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package newpackage;
+package paqueteRocio;
 
 /**
  *
  * @author Diurno
  */
-public class NewClass {
+public class ClaseRocio {
     
 }
