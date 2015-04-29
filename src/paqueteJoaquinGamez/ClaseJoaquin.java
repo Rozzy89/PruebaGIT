@@ -13,9 +13,9 @@ public class ClaseJoaquin {
     int x;
     int y;
     
-    public ClaseJoaquin(int x, int y){
-        this.x = x;
-        this.y = y;
+    public ClaseJoaquin(){
+        this.x = 4;
+        this.y = 2;
     }
     
     public int potencia(){
