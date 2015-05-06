@@ -26,4 +26,10 @@ public class ModificadaPorAmbos {
        System.out.println(suma);
       
    }
+   
+   public void resta ()
+   {
+       int resta = x-y;
+       System.out.println(resta);
+   }
 }
